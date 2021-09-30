@@ -1,4 +1,4 @@
-# QOSF-cohort4-task2
+# QOSF Cohort4 Screening Task 2
 Cohort 4 Screening Tasks
 Author: Ali Panahi
 

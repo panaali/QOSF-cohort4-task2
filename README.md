@@ -1,5 +1,5 @@
-# QOSF Cohort4 Screening Task 2
-Cohort 4 Screening Tasks
+# QOSF Cohort 4 Screening Task 2
+
 Author: Ali Panahi
 
 Checkout the following colab notebook for an interactive experience.
